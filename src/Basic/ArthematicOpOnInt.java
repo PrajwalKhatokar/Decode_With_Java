@@ -6,6 +6,10 @@ public class ArthematicOpOnInt {
         System.out.println(a+b);
         System.out.println(a-b);
         System.out.println(a*b);
+        System.out.println(a%b);
+
+        System.out.println(a%b);
+
         System.out.println(a/b); //we geting as 2 because int /int=result
         //how to solve this issue .? use double ok.DoubleUsage.java
 
