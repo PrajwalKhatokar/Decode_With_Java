@@ -1,6 +1,6 @@
 package String;
 
-public class reverse{
+public class Reverse_Method1 {
     public static void main(String[] args) {
         String str="hello";
         // convert this String into the character array ok na so what is do means i use the
