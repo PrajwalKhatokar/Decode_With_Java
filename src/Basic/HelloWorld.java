@@ -1,5 +1,7 @@
 package Basic;
 
+import java.util.Scanner;
+
 public class HelloWorld {
     public static void main(String[] args) {
         System.out.println("welcome to the coding world of the java");
@@ -8,3 +10,6 @@ public class HelloWorld {
         System.out.println("do code everydayy");
     }
 }
+
+
+
