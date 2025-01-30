@@ -9,8 +9,7 @@ public class Absolute {
         //absolute number means make +Ve no as +ve and -ve as +ve
         if(n<0){
             System.out.println(-n);
-        }
-        else {
+        } else {
             System.out.println(n);
         }
     }
