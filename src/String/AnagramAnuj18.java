@@ -1,6 +1,6 @@
 package String;
 
-public class AnagramAnuj{
+public class AnagramAnuj18 {
 
     static boolean anagram(String s1,String s2) {
         int a[] = new int[256];
