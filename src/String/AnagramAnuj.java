@@ -35,6 +35,8 @@ public class AnagramAnuj{
         String s1="Hello";
         String s2="hello";
         System.out.println(anagram(s1,s2));
+        //if you want to convert into lower case and then check use 2nd line ok
+        // System.out.println(anagram(s1.toLowerCase(),s2.toLowerCase()));
     }
 }
 
