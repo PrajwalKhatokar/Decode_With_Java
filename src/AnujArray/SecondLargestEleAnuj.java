@@ -8,7 +8,7 @@ public class SecondLargestEleAnuj {
         int second = -1; // intially let second largest be -1 ok
         if (a.length == 2) return -1; //means nan array nali elemennts bari {1 ,2} edhe edrali
         //yen second largest na find madli so return -1 ok na.
-        for (int i = 1; i < a.length; i++) {
+        for (int i =0; i < a.length; i++) {
             if (a[i] > a[largest]) { // a[i] is greater than the largest then largest what we got
                 // pour it as the second largest ok
                 // and what we got in the i ie largest that one pour in the largest
