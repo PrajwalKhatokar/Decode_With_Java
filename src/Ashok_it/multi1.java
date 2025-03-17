@@ -2,7 +2,7 @@ package Ashok_it;
 
 import java.util.Arrays;
 
-public class multi {
+public class multi1 {
     public static void main(String[] args) {
         int[][] arr = new int[2][2];
         // case 1: just printing the mutlidemension elements.

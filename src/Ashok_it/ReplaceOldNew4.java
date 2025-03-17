@@ -9,7 +9,7 @@ import java.util.Scanner;
 //case 2:update only the first occurence
 //case 3:update the Second occurence
 //  case 4:update LAST  occurence FOR LOOP ULTA MADU
-public class ReplaceOldNew {
+public class ReplaceOldNew4 {
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
 

@@ -1,6 +1,6 @@
 package Ashok_it;
 
-public class Min_Max {
+public class Min_Max2 {
     public static void main(String[] args) {
 
 
