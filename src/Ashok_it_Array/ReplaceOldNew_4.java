@@ -1,4 +1,4 @@
-package Ashok_it;
+package Ashok_it_Array;
 
 import java.util.Scanner;
 

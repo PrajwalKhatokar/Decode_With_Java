@@ -1,4 +1,4 @@
-package Ashok_it;
+package Ashok_it_Array;
 
 public class Min_Max_2 {
     public static void main(String[] args) {

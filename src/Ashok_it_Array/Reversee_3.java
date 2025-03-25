@@ -1,4 +1,4 @@
-package Ashok_it;
+package Ashok_it_Array;
 
 public class Reversee_3 {
     public static void main(String[] args) {
