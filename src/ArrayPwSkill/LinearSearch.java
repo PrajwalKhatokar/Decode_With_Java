@@ -21,7 +21,7 @@ public class LinearSearch {
             arr[i] = sc.nextInt();
         }
         // logic starts
-        boolean flag = false;
+        boolean flag = false;//initially nothing got so false
         for (int i = 0; i < n; i++) {
             if (arr[i] == target) {  //if curent ele is equal to target element
                 flag = true; //if got break the loop
