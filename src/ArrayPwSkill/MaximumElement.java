@@ -16,3 +16,5 @@ public class MaximumElement {
         System.out.println("MaximumElement is:" +max);
     }
 }
+// OutPut:
+//MaximumElement is:1000
