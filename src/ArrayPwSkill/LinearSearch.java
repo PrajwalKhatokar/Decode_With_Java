@@ -21,7 +21,7 @@ public class LinearSearch {
             arr[i] = sc.nextInt();
         }
         // logic starts
-        boolean flag = false;
+        boolean flag = false;//initially nothing got so false
         for (int i = 0; i < n; i++) {
             if (arr[i] == target) {  //if curent ele is equal to target element
                 flag = true; //if got break the loop
@@ -37,3 +37,30 @@ public class LinearSearch {
 
         }
     }
+
+// OutPut:
+
+// enter the target element
+// 4
+// enter the size of the array
+// 5
+// enter the array elements
+// 10
+// 56
+// 78
+// 4
+// 74
+// target element found
+
+// enter the target element
+// 25
+// enter the size of the array
+// 4
+// enter the array elements
+// 12
+// 78
+// 96
+// 36
+// element not found
+
+
