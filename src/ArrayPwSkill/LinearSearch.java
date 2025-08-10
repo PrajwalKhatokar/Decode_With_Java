@@ -37,3 +37,30 @@ public class LinearSearch {
 
         }
     }
+
+// OutPut:
+
+// enter the target element
+// 4
+// enter the size of the array
+// 5
+// enter the array elements
+// 10
+// 56
+// 78
+// 4
+// 74
+// target element found
+
+// enter the target element
+// 25
+// enter the size of the array
+// 4
+// enter the array elements
+// 12
+// 78
+// 96
+// 36
+// element not found
+
+
