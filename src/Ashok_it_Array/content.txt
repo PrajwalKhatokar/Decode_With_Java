@@ -1,0 +1,5 @@
+1.wap to find minimum and maximum elements in an array.
+
+2.wap to reverse an array
+
+3.Replace old element value with an new element value
