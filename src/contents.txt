@@ -8,7 +8,7 @@ Arrays follow list
 
 4.wap to reverse an array
 
-5.search an element in an array 
+5.search an element in an array ( same as linear search) 
 
 6.delete an element in an array
 
