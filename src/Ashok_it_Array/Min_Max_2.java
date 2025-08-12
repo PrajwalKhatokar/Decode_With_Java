@@ -18,6 +18,6 @@ package Ashok_it_Array;
             }
         }
 
-//        Output:
+//        Output
 //        maximum number in the array is :900
 //        minimum number in the array is :1
