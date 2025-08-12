@@ -30,7 +30,7 @@ public class LinearSearch {
         }
 
             if (flag == true) {
-                System.out.println("target element found:");
+                System.out.println("target element found");
             } else {
                 System.out.println("element not found");
             }
