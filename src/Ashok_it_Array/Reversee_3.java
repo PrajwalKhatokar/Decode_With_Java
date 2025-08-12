@@ -2,7 +2,7 @@ package Ashok_it_Array;
 
 public class Reversee_3 {
     public static void main(String[] args) {
-        //task is to reverse an array without losing the first element and store in temp.
+        //task is to reverse an array without losing the first element and store in temp.(while swapping so for safety) 
         
         int arr[]={34,89,32,67,22,90};
         int temp=0;// to store the 1st element without losing it.
