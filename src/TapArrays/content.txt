@@ -1,0 +1,9 @@
+1.Sum of all element in an array ->SumOfArray.java
+
+2.Product of all element in an array ->Product.java
+
+3.To Find the maximum value in the array -> MaxArray.java
+
+4.To Find the minimum value in the array ->MinArray.java
+
+5.
