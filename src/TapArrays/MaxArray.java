@@ -29,3 +29,10 @@ public class MaxArray {
 
     }
 }
+
+//Output:
+
+//enter the size of the array
+//5
+//        10 20 6 4 80
+//maximum number in the array is 80
