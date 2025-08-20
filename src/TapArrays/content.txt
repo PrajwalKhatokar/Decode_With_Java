@@ -6,4 +6,4 @@
 
 4.To Find the minimum value in the array ->MinArray.java
 
-5.
+5.to print the index of the maximum value and traversal allowed only once -> MaxIndex.java
