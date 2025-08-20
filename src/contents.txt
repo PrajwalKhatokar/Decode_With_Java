@@ -1,0 +1,21 @@
+Arrays follow list
+
+1.Linear search,search target element by creating the array
+
+2.find the maximum element in the given array
+
+3.wap to find minimum and maximum elements in an array.
+
+4.wap to reverse an array
+
+5.search an element in an array ( same as linear search) 
+
+6.delete an element in an array
+
+7.largest element in an array
+
+8.second largest element in an array 
+
+9.leaders in an array
+
+10.check if array is sorted 
