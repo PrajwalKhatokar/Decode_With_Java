@@ -7,3 +7,6 @@
 4.To Find the minimum value in the array ->MinArray.java
 
 5.to print the index of the maximum value and traversal allowed only once -> MaxIndex.java
+
+6.sum of n-1 means i if the array size is 5 i need to find for the 4 element there max
+min value --> SumOfNMinusOne package
