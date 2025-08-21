@@ -1,3 +1,5 @@
+//7.product of n-1 ,Storing in new array
+
 package TapArrays;
 
 import java.util.Scanner;
