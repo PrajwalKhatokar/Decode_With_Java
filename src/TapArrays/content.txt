@@ -11,4 +11,4 @@
 6.sum of n-1 means i if the array size is 5 i need to find for the 4 element there max
 min value --> SumOfNMinusOne package
 
-7.product of n-1 ,Storing in new array
+7.product of n-1 ,Storing in new array, ProductOfNMinusOne.java
