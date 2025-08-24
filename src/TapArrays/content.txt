@@ -12,3 +12,7 @@
 min value --> SumOfNMinusOne package
 
 7.product of n-1 ,Storing in new array, ProductOfNMinusOne.java
+
+8.print the SecondLargest element in the given array -> SecondLargestElement.java
+
+9.print the SecondSmallest element in the given array -> SecondSmallest.java
