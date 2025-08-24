@@ -9,7 +9,7 @@ public class SecondLargestElement {
     static int Second(int arr[]) {
         int FirstLargest = arr[0], SecondLargest = Integer.MIN_VALUE;
 
-        for (int i = 0; i < arr.length; i++) {
+        for (int i = 1; i < arr.length; i++) { //index start from 1 becuse 1st index large edhare condtion get fails
             if (arr[i] > FirstLargest) {
                 SecondLargest = FirstLargest; // i should not lose 1st element i need to give to second largest if i get the largest na
                 FirstLargest = arr[i]; // largest found and we are giving that to him
