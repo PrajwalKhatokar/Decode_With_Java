@@ -1,5 +1,6 @@
+//10.print the SecondSmallest element in the given array -> SecondSmallest.java
+//package TapArrays;
 package TapArrays;
-
 import java.util.Scanner;
 
 

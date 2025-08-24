@@ -1,8 +1,9 @@
+//8.find the Number of Occurence in the given Array->NumberOccurence.java
+//package TapArrays;
 package TapArrays;
-
 import java.util.Scanner;
 
-public class NumberOfOccurence {
+public class NumberOfOccurence{
 
     static int Occurence(int arr[],int key){
         int count=0;
