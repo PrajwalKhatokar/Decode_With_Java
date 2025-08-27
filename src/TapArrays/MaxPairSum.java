@@ -31,7 +31,7 @@ public class MaxPairSum {
     }
 
 }
-//  output:
+//  output::
 //case 1
 //enter the size of the array
 //7
