@@ -13,6 +13,23 @@ min value --> SumOfNMinusOne package
 
 7.product of n-1 ,Storing in new array, ProductOfNMinusOne.java
 
-8.print the SecondLargest element in the given array -> SecondLargestElement.java
+8.find the Number of Occurence in the given Array->NumberOccurence.java
 
-9.print the SecondSmallest element in the given array -> SecondSmallest.java
+9.print the SecondLargest element in the given array -> SecondLargestElement.java
+
+10.print the SecondSmallest element in the given array -> SecondSmallest.java
+
+//Array Pairs Concept
+
+11.find the maxiumum pair sum of the Array  ->MaxPairSum.java
+
+12.find the minimum pair sum of the Array  ->MinPairSum.java
+
+13.find the Maximum Pair Product of the array ->MaxPairProduct.java
+
+14.find the Minimum Pair Product of the array ->MinPairProduct.java
+
+15.Linear search ,Find the key element in the given array and return its index
+-> LinearSearch.java
+
+16.
