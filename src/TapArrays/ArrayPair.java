@@ -20,7 +20,7 @@ public class ArrayPair {
         for (int i=0;i<arr.length;i++) {
             arr[i] = sc.nextInt();
         }
-        ArrayPairr(arr);//edhna cal madila andre yenu print hagala
+        ArrayPairr(arr);//edhna cal madila andre yenu print hagalaa
     }
 }
 //
