@@ -32,4 +32,10 @@ min value --> SumOfNMinusOne package
 15.Linear search ,Find the key element in the given array and return its index
 -> LinearSearch.java
 
-16.
+16.given an Array find the pairs of the Array-> ArrayPair.java
+
+17.given an Array pair and also an integer number the pair should be the "sum " of the given
+integer ->ArrayKeySumPair.java
+
+18.given an Array pair and also an integer number the pair should be the "Difference " of the given
+integer ->ArrayKeyDifferencePair.java
