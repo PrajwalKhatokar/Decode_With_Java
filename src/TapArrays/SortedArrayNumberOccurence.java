@@ -1,3 +1,5 @@
+//19.Given an Sorted array of the Integer Value  FInd the Ocurrence of the each ELement in an
+//array
 package TapArrays;
 
 import java.util.Scanner;
