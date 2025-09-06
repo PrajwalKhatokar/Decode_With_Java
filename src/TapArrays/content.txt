@@ -39,3 +39,6 @@ integer ->ArrayKeySumPair.java
 
 18.given an Array pair and also an integer number the pair should be the "Difference " of the given
 integer ->ArrayKeyDifferencePair.java
+
+19.Given an Sorted array of the Integer Value  FInd the Ocurrence of the each ELement in an
+array->SortedArrayNumberOccurence
