@@ -1,0 +1,12 @@
+1.Two sum:(Refer the leetcode my Profile)
+meaning array edhe { 3,-1,8,5,4,9,2}
+target = 9
+
+means i should get the only one pair which is equal to the target and return there index
+by storing in the array for this i can also do optimization for now not required
+
+Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target.
+You may assume that each input would have exactly one solution, and you may not use the same element twice.
+You can return the answer in any order.
+
+2.
