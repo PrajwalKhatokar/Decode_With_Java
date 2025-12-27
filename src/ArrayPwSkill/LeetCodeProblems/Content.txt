@@ -9,4 +9,9 @@ Given an array of integers nums and an integer target, return indices of the two
 You may assume that each input would have exactly one solution, and you may not use the same element twice.
 You can return the answer in any order.
 
-2.
+2.Two Pointer-> Which means Reverse an Array Oh simple.
+lets solve here only full code in my package with explanation cool and easy.
+case 1: reverse full
+case 2: specific part i need to reverse ok na.
+
+
