@@ -1,6 +1,6 @@
 package ArrayPwSkill;
 
-public class MaximumElement {
+public class MaximumElementInAnArray {
     public static void main(String[] args) {
 
 
@@ -8,8 +8,7 @@ public class MaximumElement {
         int max=arr[0];
         int size=arr.length;
         for (int i=0;i<size;i++){
-            if(arr[i]>
-                    max){
+            if(arr[i]> max){
                 max=arr[i];
             }
         }

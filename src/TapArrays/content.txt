@@ -42,3 +42,9 @@ integer ->ArrayKeyDifferencePair.java
 
 19.Given an Sorted array of the Integer Value  FInd the Ocurrence of the each ELement in an
 array->SortedArrayNumberOccurence
+
+20.given the sorted Array of the integer value print all the elements of the array without
+repeating -> SortedArrayNoRepetation.java
+
+21.given an array of the integer values in the sorted array print the unique elements
+->SOrtedArrayPrintUniqueElement

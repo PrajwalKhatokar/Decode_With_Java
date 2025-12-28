@@ -1,0 +1,8 @@
+Arrays follow list by pwskills
+
+1.Linear search,search target element by creating the array -> LinearSearch.java
+
+2.find the maximum element in the given array-> MaximumElementInAnArray.java
+
+3.Find the Second largest element in the Array-> SecondLargestElement.java
+
