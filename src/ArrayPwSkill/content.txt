@@ -8,4 +8,5 @@ Arrays follow list by pwskills
 
 4.Sort and Array 0 and 1's using One Pass Solution -> SortZeroOne.java
 
-5.
+5.sort two array merge sort(merge two sorted array)  ie already 2 sorted array eruthe adhna
+i need to put in the single array -> MergeTwoSortArray.java
