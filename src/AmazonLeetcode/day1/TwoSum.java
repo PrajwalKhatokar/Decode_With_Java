@@ -1,4 +1,4 @@
-package AmazonLeetcode;
+package AmazonLeetcode.day1;
 
 import java.util.HashMap;
 
