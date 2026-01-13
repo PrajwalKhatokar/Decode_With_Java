@@ -1,4 +1,4 @@
-package AmazonLeetcode;
+package AmazonLeetcode.day1;
 
 public class MaxSubArray {
     public static void main(String[] args) {
