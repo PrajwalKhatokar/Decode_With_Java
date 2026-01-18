@@ -34,7 +34,7 @@ public class lengthOfLongestSubstring {
                     left++;// after removing go front
                 }
                 set.add(current);// if not there in set add ok
-                maxlength=Math.max(maxlength,right-left+1);// right-left+1
+                maxlength=Math.max(maxlength,right-left+1);// right-left+1 ;right qst beacuse big no so 2-1=1 i get etara logic
                 // intial rigth and left 0 ok if i has one character then 1 i
                 // get so i used + 1 or else i wil be having character but
                 // stil 0
