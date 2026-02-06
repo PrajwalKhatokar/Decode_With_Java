@@ -8,7 +8,7 @@ public class Palindrome {
         public boolean isPalindrome(int x) {
             // first reverse the number
             // reverse number check with the orginal  number ok
-            int original=x;
+            int original=x;// x wil get change so storing in variable.
             int rem =0;
             int temp=0;
 
