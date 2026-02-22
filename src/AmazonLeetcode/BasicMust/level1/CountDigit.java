@@ -7,8 +7,6 @@ public class CountDigit {
 
     }
 }
-
-
     class Solution {
         public int countDigits(int num) {
 
