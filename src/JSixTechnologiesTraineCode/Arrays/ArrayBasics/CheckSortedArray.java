@@ -2,7 +2,7 @@ package JSixTechnologiesTraineCode.Arrays.ArrayBasics;
 
 import java.util.Scanner;
 
-public class ArraySorted {
+public class CheckSortedArray {
     //[ 50 30 10 60 90]
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
