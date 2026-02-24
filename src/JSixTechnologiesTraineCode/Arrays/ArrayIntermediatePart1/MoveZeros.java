@@ -22,7 +22,7 @@ public class MoveZeros {
 
         int j=0;
         for(int i=0;i<n;i++){
-            if(arr[i]!=0){
+            if(arr[i]!=0){ // 0 sekidre ignore ,not equal edhare swap simple
                 int temp=arr[i];
                 arr[i]=arr[j];
                 arr[j]=temp;
