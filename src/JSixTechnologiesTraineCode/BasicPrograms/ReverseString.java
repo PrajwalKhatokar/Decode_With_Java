@@ -1,4 +1,4 @@
-package JSixTechnologiesTraineCode;
+package JSixTechnologiesTraineCode.BasicPrograms;
 
 import java.util.Scanner;
 
