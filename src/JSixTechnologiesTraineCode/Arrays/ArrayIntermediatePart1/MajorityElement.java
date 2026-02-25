@@ -21,19 +21,22 @@ public class MajorityElement {
 
         for(int i=0;i<n;i++){
 
-            // get old count or 0 if not present
+            // get old count or 0 if not present  ie map.getOrDefault(arr[i],0) returns current frequency of
+            // element if present, otherwise returns 0.
             int count = map.getOrDefault(arr[i],0);
 
             // increase count
             count++;
 
             // store updated count
-            map.put(arr[i],count);
+            map.put(arr[i],count); //updates frequency of element in HashMap, not array
 
             // check if majority
             if(count > n/2){
                 System.out.println("Majority element: " + arr[i]);
-                return;
+                return;//This stops program immediately.Once majority found → stop checking further
+                       // No need to check rest of array.Program exits from main().
+                       // i can use break ? break only stops the loop, not the whole program.
             }
         }
 
