@@ -17,13 +17,17 @@ public class MajorityElement {
         }
 
         //logic starts
+        // find the Majority element in an Array
+        // majority  means > than n/2 if 5 is 5 ie 1 1 1 2 3
+        // i need to count the number of times so i need HashMap stores key value pair
         HashMap<Integer,Integer> map = new HashMap<>();//to store key and value pair
 
         for(int i=0;i<n;i++){
 
             // get old count or 0 if not present  ie map.getOrDefault(arr[i],0) returns current frequency of
             // element if present, otherwise returns 0.
-            int count = map.getOrDefault(arr[i],0);
+            int count = map.getOrDefault(arr[i],0); //2 starting hey memory nali
+            // erodhila so 0 stored in count next count becomes 1 when i do count++
 
             // increase count
             count++;
@@ -46,5 +50,5 @@ public class MajorityElement {
 //Enter the Size of the Array
 //5
 //Enter the array Elements
-//1 1 1 2 3
+//1 1 1 2 3  n/2 edhare matra i get majority element 1 two time repeat adru no not majority
 //Majority element: 1
