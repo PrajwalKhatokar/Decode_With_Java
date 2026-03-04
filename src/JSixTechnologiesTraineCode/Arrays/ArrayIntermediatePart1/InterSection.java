@@ -7,44 +7,44 @@ import java.util.Set;
 public class InterSection {
 
     public static void main(String[] args) {
-
         Scanner sc = new Scanner(System.in);
+        System.out.println("Enter the Size of the 1ST  Array");
+        int n1 = sc.nextInt();
+        int arr1[] = new int[n1];
 
-        System.out.println("Enter size of first array:");
-        int n = sc.nextInt();
-        int[] arr1 = new int[n];
-
-        System.out.println("Enter elements:");
-        for(int i=0;i<n;i++){
+        // for inputing
+        System.out.println("Enter the 1ST  Array elements");
+        for (int i = 0; i < n1; i++) {
             arr1[i] = sc.nextInt();
         }
 
-        System.out.println("Enter size of second array:");
-        int m = sc.nextInt();
-        int[] arr2 = new int[m];
-
-        System.out.println("Enter elements:");
-        for(int i=0;i<m;i++){
+        System.out.println("Enter the Size of the Array");
+        int n2 = sc.nextInt();
+        int arr2[] = new int[n2];
+        // for inputing
+        System.out.println("Enter the Array elements");
+        for (int i = 0; i < n2; i++) {
             arr2[i] = sc.nextInt();
         }
 
-        Set<Integer> set = new HashSet<>();
-        Set<Integer> result = new HashSet<>();
+        //Intersection
+        // 1 2 3 4
+        // 2 3 4 5
+        Set<Integer> s = new HashSet<>();
+        Set<Integer> result= new HashSet<>();
 
-        for(int num : arr1){
-            set.add(num);
+        for (int i = 0; i < n1; i++) {
+            s.add(arr1[i]);
         }
 
-        for(int num : arr2){
-            if(set.contains(num)){
-                result.add(num);
+        for(int i=0;i<n2;i++){
+            if(s.contains(arr2[i])){
+                result.add(arr2[i]);
             }
         }
-
-        System.out.println("Intersection:");
-
-        for(int num : result){
-            System.out.print(num + " ");
+        System.out.println("intersection of two Arrays");
+        for(int num:result){
+            System.out.print(" "+num);
         }
     }
 }
