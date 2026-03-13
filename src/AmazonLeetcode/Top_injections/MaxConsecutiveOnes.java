@@ -62,6 +62,8 @@ public class MaxConsecutiveOnes {
                 int currentWindowLength = right - left + 1;
 
                 // Update the maximum window length found so far.
+//                “We use right - left + 1 because both pointers are inclusive,
+//                 and without +1 the window size is always undercounted.”
                 maxLen = Math.max(maxLen, currentWindowLength);
             }
 
