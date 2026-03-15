@@ -1,4 +1,4 @@
-package PatternPrintingPwskills.SpecialPatternPartTwo;
+package JSixTechnologiesTraineCode.PatternPrintingPwskills.SpecialPatternPartTwo;
 
 import java.util.Scanner;
 
