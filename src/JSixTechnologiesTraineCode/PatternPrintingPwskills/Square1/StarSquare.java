@@ -1,4 +1,4 @@
-package PatternPrintingPwskills.Square;
+package JSixTechnologiesTraineCode.PatternPrintingPwskills.Square1;
 
 import java.util.Scanner;
 
