@@ -1,4 +1,4 @@
-package PatternPrintingPwskills.Triangle;
+package JSixTechnologiesTraineCode.PatternPrintingPwskills.Triangle2;
 
 import java.util.Scanner;
 
