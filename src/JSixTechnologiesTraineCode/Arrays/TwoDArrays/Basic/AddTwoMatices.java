@@ -1,4 +1,4 @@
-package JSixTechnologiesTraineCode.Arrays.TwoDArrays;
+package JSixTechnologiesTraineCode.Arrays.TwoDArrays.Basic;
 
 public class AddTwoMatices {
     public static void main(String[] args) {
