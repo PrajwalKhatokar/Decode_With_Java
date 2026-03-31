@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Countdigit {
     public static void main(String[] args) {
          // our task is count digit
-        // case 1: if n=0 then total digit is 0
+        // case 1: if n=0 then total digit is 1
         // 1234 -> 4 digit
     Scanner sc= new Scanner(System.in);
         System.out.println("enter a number");
