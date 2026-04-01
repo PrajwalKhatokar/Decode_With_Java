@@ -30,5 +30,9 @@ public class PrimeNumber {
 
 
 
-/** 1 is not a prime number because it has only one factor (1), but a prime number must have exactly two factors (1 and itself)
+/**
+🔴 Why 0 is NOT prime?
+👉 0 has infinite divisors
+
+ 1 is not a prime number because it has only one factor (1), but a prime number must have exactly two factors (1 and itself)
 **/
