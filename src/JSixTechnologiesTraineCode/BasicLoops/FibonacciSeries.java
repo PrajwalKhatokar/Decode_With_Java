@@ -38,7 +38,7 @@ public class FibonacciSeries {
 //        0 1 1 2 3 5 8 13
 
 
-/**
+/*
 
 Why if(n >= 1) ?
 
@@ -88,4 +88,4 @@ Loop starts from 3rd number onwards
 
 
 
-**/
+*/
