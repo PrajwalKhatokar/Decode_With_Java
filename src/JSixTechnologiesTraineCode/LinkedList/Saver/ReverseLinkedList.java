@@ -52,3 +52,9 @@ public class ReverseLinkedList {
     }
 
 
+//    Original:
+//            10 -> 20 -> 30 -> null
+//    Reversed:
+//            30 -> 20 -> 10 -> null
+//
+//    Process finished with exit code 0
