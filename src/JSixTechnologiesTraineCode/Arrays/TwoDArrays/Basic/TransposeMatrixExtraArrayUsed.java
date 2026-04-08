@@ -18,10 +18,10 @@ public class TransposeMatrixExtraArrayUsed {
         int n=arr[0].length;
         int[][] transpose = new int[n][m]; // our core logic m*n -> n*n haguthe
 
-      for (int j = 0; j < n; j++) {    // our core logic m*n -> n*n haguthe
-            for (int i = 0; i < m; i++) {   /// our core logic m*n -> n*n haguthe
+      for (int j = 0; j < n; j++) {    // our core logic m*n -> n*m haguthe
+            for (int i = 0; i < m; i++) {   /// our core logic m*n -> n*m haguthe
                 transpose[j][i]=arr[i][j];
-                System.out.print(transpose[j][i]+" ");// our core logic m*n -> n*n haguthe
+                System.out.print(transpose[j][i]+" ");// our core logic m*n -> n*m haguthe
             }
             System.out.println();
         }
