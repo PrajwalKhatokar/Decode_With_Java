@@ -16,7 +16,7 @@ public class TransposeMatrixExtraArrayUsed {
         int[][] arr={{4,2},{1,5},{6,9}};
         int m=arr.length;
         int n=arr[0].length;
-        int[][] transpose = new int[n][m]; // our core logic m*n -> n*n haguthe
+        int[][] transpose = new int[n][m]; // our core logic m*n -> n*m haguthe
 
       for (int j = 0; j < n; j++) {    // our core logic m*n -> n*m haguthe
             for (int i = 0; i < m; i++) {   /// our core logic m*n -> n*m haguthe
