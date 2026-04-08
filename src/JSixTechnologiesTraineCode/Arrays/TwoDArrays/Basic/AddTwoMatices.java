@@ -1,6 +1,7 @@
 package JSixTechnologiesTraineCode.Arrays.TwoDArrays.Basic;
 
-public class AddTwoMatices {
+public class
+AddTwoMatices {
     public static void main(String[] args) {
 
         int[][] arr1={{1,9,2},{3,7,4},{8,5,6}};
