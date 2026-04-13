@@ -23,7 +23,7 @@ public class ReverseEachWord {
 
             for (int i = 0; i < words.length; i++) {
 
-                String word = words[i];
+                String word = words[i]; //take one word from the array and store it in a variable
                 String reversed = "";
 
                 for (int j = word.length() - 1; j >= 0; j--) {
@@ -33,6 +33,13 @@ public class ReverseEachWord {
                 result = result + reversed;
 
                 if (i != words.length - 1) {  //If this is NOT the last word, then add a space
+                    //Give me the current word so I can process i
+                    /**👉 Instead of writing:
+
+                    words[i].length()
+                    words[i].charAt(j)
+
+                  👉 Again and again ❌**/
                     // means last index ie 3 coding sekidre dont add spaces until that i adhmele coding adhmele space add madu
                     // which we removed earlier ok na
                     // means
