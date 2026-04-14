@@ -26,7 +26,7 @@ package JSixTechnologiesTraineCode.Arrays.ArrayIntermediatePart2;
 // two element add madidre it should be equal to target hagirbeku and avre target kotidaare ok na
 // i (pointing to the first element ok na) traverse 1 time
 // j start two loop beku inside loop 5 tyms work ie ie 2 adre 2 na we check with the 7 11 and 15 not
-// we not start j =1 because i and j both 3 and 3 itself comaprsion bad so j start with the i+1
+// we not start j =0 because i and j both 3 and 3 itself comaprsion bad so j start with the i+1
     class TwoSum {
         public int[] twoSum(int[] nums, int target) {
 
