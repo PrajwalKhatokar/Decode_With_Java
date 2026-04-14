@@ -42,3 +42,10 @@ public class Secondlargest {
 //        12
 //        2
 //Second Largest element is :9
+
+
+//case 2:
+//
+//        5
+//        10 85 85 85 85
+//        10
