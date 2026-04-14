@@ -48,3 +48,68 @@ class Solution {
 }
 
 
+//....................................................................................
+
+//import java.util.Scanner;
+//
+//public class RotateArray {
+//
+//    // 🔴 Reverse function (same as your code)
+//    public static void reverse(int[] nums, int i, int j) {
+//        while (i < j) {
+//            int temp = nums[i];
+//            nums[i] = nums[j];
+//            nums[j] = temp;
+//            i++;
+//            j--;
+//        }
+//    }
+//
+//    // 🔴 Rotate function
+//    public static void rotate(int[] nums, int k) {
+//        int n = nums.length;
+//
+//        k = k % n; // handle large k
+//
+//        // Step 1: reverse first part
+//        reverse(nums, 0, n - k - 1);
+//
+//        // Step 2: reverse second part
+//        reverse(nums, n - k, n - 1);
+//
+//        // Step 3: reverse whole array
+//        reverse(nums, 0, n - 1);
+//    }
+//
+//    public static void main(String[] args) {
+//
+//        Scanner sc = new Scanner(System.in);
+//
+//        // 🔹 Input size
+//        System.out.print("Enter size: ");
+//        int n = sc.nextInt();
+//
+//        int[] nums = new int[n];
+//
+//        // 🔹 Input array
+//        System.out.println("Enter elements:");
+//        for (int i = 0; i < n; i++) {
+//            nums[i] = sc.nextInt();
+//        }
+//
+//        // 🔹 Input k
+//        System.out.print("Enter k: ");
+//        int k = sc.nextInt();
+//
+//        // 🔹 Call rotate
+//        rotate(nums, k);
+//
+//        // 🔹 Output result
+//        System.out.println("Rotated array:");
+//        for (int i = 0; i < n; i++) {
+//            System.out.print(nums[i] + " ");
+//        }
+//
+//        sc.close();
+//    }
+//}
