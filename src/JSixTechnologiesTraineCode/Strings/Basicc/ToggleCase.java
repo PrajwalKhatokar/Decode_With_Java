@@ -31,6 +31,12 @@ public class ToggleCase {
     }
 }
 
-
+/**
+ * tip
+ *
+ * uppper case 65 nenp itko saku endiing yenapa 65+26 = 91 .ondh bidu 90
+ * lower case start from 97 + 26 = 123 ,ondh bidu 122
+ *
+ */
 //        PraJwal
 //        pRAjWAL
