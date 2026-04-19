@@ -1,4 +1,4 @@
-package JSixTechnologiesTraineCode.Strings.Basics;
+package JSixTechnologiesTraineCode.Strings.Basicc;
 
 public class StringCountVowel {
 
