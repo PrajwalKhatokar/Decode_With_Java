@@ -26,7 +26,7 @@ public class Isomorphic {
             char c2 = t.charAt(i);
 //first haku memory nali key and value na ie else part nodkoluthe if nali mismatch adre
             // c1 and c2 ie paper hakide tiler nodu p nali t ne erbeku but l edhe mismatch ok na false return and break the loop.
-            if (map1.containsKey(c1)) {
+            if (map1.containsKey(c1)) {  // map nali memory nali edhare kai haki tagi ie get it blady and then  mismatch edhare  sout nali false anta print madu
                 if (map1.get(c1) != c2) {
                     System.out.println(false);
                     return;
