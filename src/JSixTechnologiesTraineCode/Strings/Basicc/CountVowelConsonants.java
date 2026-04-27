@@ -9,13 +9,13 @@ public class CountVowelConsonants {
         int v = 0, c = 0;
 
         for (int i = 0; i < str.length(); i++) {
-
+// ie nan kalso character aeiou nali edia nodu, edhare count it until it reach -1 last character
             if ("aeiouAEIOU".indexOf(ch[i]) != -1) {  //ch[i] ie We must pass one character at a time
                                                       //“Check if current character exists in 'aeiou'”
 //                                                    //"aeiouAEIOU".indexOf(ch[i]) != -1-->Find position of this character inside vowel string”, and
                                                       //“If character exists → give index ,If not → give -1”
                 v++;
-            } else if (ch[i] != ' ') {   // ignore space
+            } else if (ch[i] != ' ') {   // ignore space Prajwal adhmele space edhe ignore madu adhna anta ie spaces ignore madi munde munde print madkondi ogu anta
                 c++;
             }
         }
