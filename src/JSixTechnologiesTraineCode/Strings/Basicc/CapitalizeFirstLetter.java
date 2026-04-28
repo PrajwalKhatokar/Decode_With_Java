@@ -27,7 +27,8 @@ public class CapitalizeFirstLetter {
                 // first character OR after space
                 if (i == 0 || s.charAt(i - 1) == ' ') {    //“If first character OR start of new word”
 //                    i==0 -> “Am I at the first character?”
-//                    s.charAt(i - 1) == ' ' -->“Is previous character a space?”
+//                    s.charAt(i - 1) == ' ' -->“Is previous character a space?”//
+                    // boom etara arta madko ero character nali adru last word spaces edhare kill to captialize
 
                     // ega arta haguthe odhu first character na captilize madu and also space adhmele next word na
                     // captialize madu
