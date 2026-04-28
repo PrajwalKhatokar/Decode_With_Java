@@ -6,7 +6,7 @@ public class CapitalizeFirstLetter {
             Scanner sc = new Scanner(System.in);
             String s = sc.nextLine();
 
-            StringBuilder result = new StringBuilder();
+            StringBuilder result = new StringBuilder();//Create empty box to build answer
 //            String Once created → cannot be changed
 //            StringBuilder is used because String is IMMUTABLE
 //            Using String
