@@ -19,7 +19,7 @@ public class RemoveDuplicateCharacter {
                     char curr = s.charAt(i);
 
                     // if not seen → add
-                    if (!seen.contains(curr)) {  //“Have I NOT seen this before?” then add
+                    if (!seen.contains(curr)) {  //“Have I NOT seen this before? inside my container” then add to seen
                         seen.add(curr);  // nodidre add to seen
                         result.append(curr); // nodidre add to result
                     }
